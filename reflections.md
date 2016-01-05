@@ -3,7 +3,7 @@ Time boxing/Pomodoro technique was the time management technique that really stu
 
 I also enjoyed learning about meditation and how it can help increase productivity by freeing up your mind. It will allow you to become less anxious, more creative, and ultimately more focused.
 
-Time-boxing is when you designate a specific amount of time to complete a task. And when the time is up regardless of whether or not the task is complete you stop and take time to evaluate what yu have done/the time you gave yourself to complete that task. I can implement it in phase 0 by allotting x amount of time to specific challenges and tasks assigned to me. C
+Time-boxing is when you designate a specific amount of time to complete a task. And when the time is up regardless of whether or not the task is complete you stop and take time to evaluate what yu have done/the time you gave yourself to complete that task. I can implement it in phase 0 by allotting x amount of time to specific challenges and tasks assigned to me.
 
 Currently i manage my time by just reviewing what i need to then, then picking out certain days throughout the week when i have the time to work on them. Then i try to finish the work in that time. It really hasnt worked out to well for me for the first week, since the work took a lot longer than i thought it would, along with having a lot less time to work on it due to being away for the holidays.
 
@@ -17,6 +17,8 @@ I will definitely be implementing the time box technique. I think its an highly 
 3. yes i was able to use all the commands by following and finishing the "Command Line Crash Course." However it did take me some time to understand some of the commands like pushd & popd.
 
 4. In my opinion the most important commands are pwd - print working directory, ls - list directory, cd - change directory, grep - find things in file. I think these are the commands i will be using the most/make a coders life easer. However, ill probably use all of the commands i just learned a lot.
+
+
 
 5.
 
